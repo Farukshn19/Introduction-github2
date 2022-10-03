@@ -6,3 +6,7 @@
 <p>This is the first line.<br>
 And this is the second line.</p>
 ```
+
+- [x] Make a github account
+- [ ] Verify e-mail
+- [ ] Make a repository
